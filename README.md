@@ -1,4 +1,4 @@
-# Lista de Exercício
+# Lista de Exercícios
 
 Nesse repositório estão alocadas as atividades executadas no curso de Analista de Dados e os temas abordados em cada uma delas.
 
@@ -20,6 +20,24 @@ Nesse repositório estão alocadas as atividades executadas no curso de Analista
 - [Exercício M18](https://github.com/Armanskij/EBAC_Studies/blob/main/Exerc%C3%ADcios/Exerc%C3%ADcio%20M18.ipynb): Adicionar | Salvar | Visualizar | Reverter | Persistir | Atualizar
 - [Exercício M19](https://github.com/Armanskij/EBAC_Studies/blob/main/Exerc%C3%ADcios/Exerc%C3%ADcio%20M19.ipynb): Sistema de branchs | Mover código
 - [Exercício M20](https://github.com/Armanskij/EBAC_Studies/blob/main/Exerc%C3%ADcios/Exerc%C3%ADcio%20M20.ipynb): Vetorização | Arrays Numpy | Operações
+- [Exercício M22](https://github.com/Armanskij/EBAC_Studies/blob/main/Exerc%C3%ADcios/Exerc%C3%ADcio%20M22.ipynb): Fundamento aprendizado de Máquina | Atributos | Dados faltantes
+- [Exercício M23](https://github.com/Armanskij/EBAC_Studies/blob/main/Exerc%C3%ADcios/Exerc%C3%ADcio%20M23.ipynb): Aprendizado de Máquina | Regressão Linear
+- [Exercício M24](https://github.com/Armanskij/EBAC_Studies/blob/main/Exerc%C3%ADcios/Exerc%C3%ADcio%20M24.ipynb): Aprendizado de Máquina | Classificação
+- [Exercício M25](https://github.com/Armanskij/EBAC_Studies/blob/main/Exerc%C3%ADcios/Exerc%C3%ADcio%20M25.ipynb): Aprendizado de Máquina | Agrupamento
+- [Exercício M26](https://github.com/Armanskij/EBAC_Studies/blob/main/Exerc%C3%ADcios/Exerc%C3%ADcio%20M26.ipynb): Aprendizado de Máquina | Séries Temporais
+- [Exercício M27](https://github.com/Armanskij/EBAC_Studies/blob/main/Exerc%C3%ADcios/Exerc%C3%ADcio%20M27.ipynb): Visualização Interativa | Looker Studio | Dataviz
+- [Exercício M29](https://github.com/Armanskij/EBAC_Studies/blob/main/Exerc%C3%ADcios/Exerc%C3%ADcio%20M29.ipynb): Introdução ao SQL | AWS Console | AWS S3 | AWS Athena
+- [Exercício M30](https://github.com/Armanskij/EBAC_Studies/blob/main/Exerc%C3%ADcios/Exerc%C3%ADcio%20M30.ipynb): Crição de Tabelas (SQL) | CRUD de Tabelas SQL
+- [Exercício M31](https://github.com/Armanskij/EBAC_Studies/blob/main/Exerc%C3%ADcios/Exerc%C3%ADcio%20M31.ipynb): Restrição de Colunas | Selecionando dados | Ordenando e limitando resultados
+- [Exercício M32](https://github.com/Armanskij/EBAC_Studies/blob/main/Exerc%C3%ADcios/Exerc%C3%ADcio%20M32.ipynb): Filtros An/Or/In/Between | Like/Wildcards | Seleção Condicional
+- [Exercício M33](https://github.com/Armanskij/EBAC_Studies/blob/main/Exerc%C3%ADcios/Exerc%C3%ADcio%20M33.ipynb): Funções Count/Group By | Min/Max/Sum/Avg | Having
+- [Exercício M34](https://github.com/Armanskij/EBAC_Studies/blob/main/Exerc%C3%ADcios/Exerc%C3%ADcio%20M34.ipynb): Funções Union | Inner/Cross Join | Left/Right Join
+- [Exercício M35](https://github.com/Armanskij/EBAC_Studies/blob/main/Exerc%C3%ADcios/Exerc%C3%ADcio%20M35.ipynb): Subqueries | Agregações por parcionamento | Visões
+- [Exercício M37](https://github.com/Armanskij/EBAC_Studies/blob/main/Exerc%C3%ADcios/Exerc%C3%ADcio%20M37.ipynb): Amazon Web Services | AWS IAM | AWS S3 | AWS Athena
+- [Exercício M38](https://github.com/Armanskij/EBAC_Studies/blob/main/Exerc%C3%ADcios/Exerc%C3%ADcio%20M38.ipynb): AWS Lambda | AWS Step Functions | AWS EventBridge
+- [Exercício M39](https://github.com/Armanskij/EBAC_Studies/blob/main/Exerc%C3%ADcios/Exerc%C3%ADcio%20M39.ipynb): AWS EC2 | AWS Sage Maker | AWS Acesso Externo
+- [Exercício M40](https://github.com/Armanskij/EBAC_Studies/blob/main/Exerc%C3%ADcios/Exerc%C3%ADcio%20M40.ipynb): Big Data I | Introdução | Apache Spark | Data Wrangling com Spark
+- [Exercício M41](https://github.com/Armanskij/EBAC_Studies/blob/main/Exerc%C3%ADcios/Exerc%C3%ADcio%20M41.ipynb): Big Data II | Introdução | Orientação por coluna | Parquet
 
 
 
